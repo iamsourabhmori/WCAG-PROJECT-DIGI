@@ -1,0 +1,56 @@
+# Django REST API
+Django>=5.0
+djangorestframework>=3.15
+django-cors-headers
+
+# CrewAI
+crewai
+
+# Utilities
+python-dotenv
+python-decouple>=3.8
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+rapidfuzz>=3.0.0
+
+# Audio/Video Handling
+pydub>=0.25.1
+ffmpeg-python>=0.2.0
+moviepy>=1.0.3
+pyaudio
+soundfile>=0.12.1
+
+# Audio Processing / Speech Recognition
+SpeechRecognition>=3.8.1
+pyttsx3>=2.90
+gTTS==2.5.1   # pinned to latest stable
+
+# File Handling / Parsing
+python-docx>=0.8.12
+docx2txt
+openpyxl>=3.1.2
+pdfplumber==0.11.0
+PyPDF2==3.0.1
+pypdf>=4.2.0
+pikepdf>=9.0.0
+reportlab>=4.0.0
+
+# Image Handling / OCR
+opencv-python-headless>=4.8.0
+opencv-python
+pillow>=10.2.0
+numpy>=1.26.0
+pytesseract==0.3.10
+
+# HuggingFace / AI
+transformers>=4.55.0
+tokenizers>=0.20.3
+torch
+openai>=1.0.0
+google-generativeai>=0.3.0
+deep-translator
+
+# Accessibility / Testing
+axe-selenium-python
